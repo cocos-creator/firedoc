@@ -82,7 +82,7 @@
     "fs-extra": "^0.20.1",
     "glob": "^5.0.10",
     "graceful-fs": "*",
-    "handlebars": "4.0.5",
+    "handlebars": "4.7.6",
     "markdown-it": "^4.2.2",
     "minimatch": "^2.0.1",
     "mkdirp": "^0.5.1",
